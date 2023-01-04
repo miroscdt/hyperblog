@@ -3,6 +3,21 @@ body{
     text-align: left;
     font-family: Arial;
 }
+#header{
+    background: rgb(224, 192, 210);
+    box-shadow: 0px 5px 8px 0px rgba(99, 96, 96, 0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+
+}
+#tagline{
+    margin: 0 0 0 1em;
+    font-weight: bold;
+    font-size: 0.8em;
+
+}
 #container{
     width: 70%;
     padding: 1em;
@@ -10,7 +25,6 @@ body{
     border: 1px solid rgb(228, 196, 228);
     margin: auto;
 }
-
 #container h1{
     font-size: 40px;
 
