@@ -6,3 +6,5 @@ Ha vivido en todo el mundo.
 Hoy hablaremos de su historia.
 
 En camara parece chaparrita pero la verdad es que es alta.
+
+Aunque estudió arquitectura, hoy está estudiando programación.
