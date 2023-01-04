@@ -1,7 +1,7 @@
 body{
     color: rgb(135, 82, 135);
     text-align: left;
-    font-family: Arial;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #header{
     background: rgb(224, 192, 210);
