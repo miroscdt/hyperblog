@@ -4,7 +4,7 @@ body{
     font-family: 'Franklin Gothic Medium';
 }
 #header{
-    background: rgb(74, 109, 110);
+    background: #4a6c6e;
     box-shadow: 0px 5px 8px 0px rgba(99, 96, 96, 0.5);
     color: white;
     font-weight: bold;
@@ -28,4 +28,8 @@ body{
 #container h1{
     font-size: 40px;
 
+}
+#footer{
+    opacity: 60%;
+    margin-bottom: -0.5em;
 }
