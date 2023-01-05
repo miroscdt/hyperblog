@@ -1,6 +1,7 @@
 body{
-    background-color: rgb(209, 196, 196);
+    background-color: rgb(205, 181, 200);
     color: cadetblue;
+    align-items: center;
     text-align: left;
     font-family: Arial;
     font-size: 15px;
@@ -16,7 +17,6 @@ body{
     margin-right: -1em;
     margin-top: -1em;
     padding: 0.6em;
-
 }
 #header #logo{
     width: 20px;
@@ -26,8 +26,11 @@ body{
     margin: 0 0 0 1em;
     font-weight: bold;
     font-size: 0.8em;
-
 }
+.img-container {
+    text-align: center;
+  }
+
 #container{
     background-color: whitesmoke;
     width: 70%;
@@ -41,7 +44,7 @@ body{
     font-size: 30px;
     text-align: left;
 }
-
 #footer{
     opacity: 90%;
 }
+
