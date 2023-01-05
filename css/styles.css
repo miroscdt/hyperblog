@@ -1,16 +1,26 @@
 body{
+    background-color: rgb(209, 196, 196);
     color: cadetblue;
     text-align: left;
-    font-family: 'Franklin Gothic Medium';
+    font-family: Arial;
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
 }
 #header{
     background: #4a6c6e;
     box-shadow: 0px 5px 8px 0px rgba(99, 96, 96, 0.5);
     color: white;
     font-weight: bold;
-    margin: 0;
-    padding: 0.5em;
+    margin-left: -1em;
+    margin-right: -1em;
+    margin-top: -1em;
+    padding: 0.6em;
 
+}
+#header #logo{
+    width: 20px;
+    vertical-align: middle;
 }
 #tagline{
     margin: 0 0 0 1em;
@@ -19,16 +29,19 @@ body{
 
 }
 #container{
+    background-color: whitesmoke;
     width: 70%;
     padding: 1em;
-    text-align: left;
-    border: 1px solid rgb(228, 196, 228);
+    text-align: justify;
+    border: 1px solid rgb(147, 180, 181);
     margin: auto;
+    margin-top: 2rem;
 }
 #container h1{
-    font-size: 40px;
-
+    font-size: 30px;
+    text-align: left;
 }
+
 #footer{
     opacity: 60%;
     margin-bottom: -0.5em;
